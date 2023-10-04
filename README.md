@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TotranMai
 - 👀 I’m interested in GIS 
-- 📫 Reach me either on totranmai.com or Twitter
+- 📫 Reach me either on totranmai.com
 
 <!---
 TotranMai/TotranMai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
